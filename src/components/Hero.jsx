@@ -26,15 +26,22 @@ export default function Hero() {
       {/* Left Content */}
       <div className="md:w-1/2 space-y-5 text-center md:text-left">
         <h1 className="text-2xl md:text-3xl font-bold text-gray-800">
-          Hi, I’m <span className="text-blue-600">Muhammad Hammad</span>
+          Hi, I’m <span className="text-blue-600">Muhammad Hammad Zufiqar Baloch Developers</span>
         </h1>
         <h2 className="text-md md:text-md font-semibold text-gray-600">
           <Typewriter
             words={[
-              "Full-Stack Developer",
+             // "Full-Stack Developer"
+            //  "Frontend Developer",
+            //  "Backend Developer",
+             // "Future Billionaire",
+                "Full-Stack Developer",
+              "Future Athlete",
+               "Google Developers",
+               "Microsoft Developers",
               "Frontend Developer",
               "Backend Developer",
-              "Future Billionaire",
+              "Future Nillionaire",
             ]}
             loop={true}
             cursor
