@@ -92,8 +92,8 @@ export default function Education() {
               institution="Capital University of Science & Technology"
               description="Passionate and detail-oriented software developer with a strong foundation in full-stack web development. Experienced in building responsive, high-performance applications using modern technologies like React.js, Next.js, Node.js, and MongoDB."
               location="Islamabad, Pakistan"
-              years="2016 - 2020"
-              gpa="3.85/4.00"
+              years="2020 - 2024"
+              gpa="3.15/4.00"
               status="Graduated"
               courses={[
                 "Data Structures",
