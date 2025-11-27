@@ -116,7 +116,7 @@ export default function Education() {
               institution="MERN Bootcamp – Online"
               description="Passionate and detail-oriented software developer with a strong foundation in full-stack web development. Experienced in building responsive, high-performance applications using modern technologies like React.js, Next.js, Node.js, and MongoDB."
               location="Remote"
-              years="2021"
+              years="2025"
               gpa="Outstanding"
               status="Certified"
               courses={[
