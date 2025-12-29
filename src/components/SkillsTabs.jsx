@@ -196,7 +196,7 @@ export default function SkillsTabs() {
                   {/* Category Heading with Icon */}
                   <div className="flex items-center gap-2 mb-4 ">
                     <div className="rounded-full flex items-center justify-center w-8 h-8 bg-blue-800">
-                      <section.icon className=" text-white" />
+                      <section.icon className="text-white" />
                     </div>
                     <h3 className="text-md font-semibold text-blue-600">
                       {section.category}
